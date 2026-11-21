@@ -44,53 +44,16 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-
-
-- **[Paste (Paste App)](https://pasteapp.io)**  
-
-  Polished visual clipboard manager and iCloud-synced history organizer for macOS, iPadOS, and iOS featuring searchable pinboards and instant link previews.
-
-
-
-- **[Apple Universal Clipboard (Continuity)](https://apple.com)**  
-
-  Built-in Apple ecosystem feature enabling seamless copy-and-paste of text, images, photos, and files across nearby Macs, iPhones, and iPads over encrypted Bluetooth and Wi-Fi.
-
-
-
-- **[1Password](https://1password.com)**  
-
-  Enterprise and personal password manager offering secure cross-device item sharing, ephemeral encrypted links (`Psst!`), and auto-clearing clipboard protection.
-
-
-
-- **[Pushbullet](https://pushbullet.com)**  
-
-  Cloud device-bridging service for pushing links, text snippets, files, and notifications between desktop browsers, Windows, and Android devices.
-
-
-
-- **[AirDroid](https://airdroid.com)**  
-
-  Cross-platform mobile-to-desktop management suite supporting remote clipboard sync, wireless file transfers, screen mirroring, and SMS management.
-
-
-
-- **[ClipboardFusion (Binary Fortress)](https://clipboardfusion.com)**  
-
-  Windows and cross-platform clipboard manager featuring cloud-synced clipboard history, C# macro text scrubbing, and hotkeys.
-
-
-
-- **[ClipDo](https://clipdo.app)**  
-
-  Cloud-enabled clipboard productivity and cross-device snippet syncing utility built for rapid text reuse and multi-device access.
-
-
-
-- **[Raycast (Cloud Sync Clipboard History)](https://raycast.com)**  
-
-  Keyboard-driven launcher for macOS and Windows featuring rich searchable clipboard history with end-to-end encrypted cloud synchronization across devices.
+| Platform | Description | Pricing (Starting Tier) | Free Tier Limits | Company Size (Revenue / Valuation) |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Apple Universal Clipboard (Continuity)](https://apple.com)** | Built-in Apple ecosystem feature enabling seamless copy-and-paste of text, images, photos, and files across nearby Macs, iPhones, and iPads over encrypted Bluetooth and Wi-Fi. | Free with Apple hardware ($0) | Included free on all supported Apple devices with Apple ID / iCloud signed in | ~$416.16B Revenue (FY2025) / ~$4.00T Market Cap |
+| **[1Password](https://1password.com)** | Enterprise and personal password manager offering secure cross-device item sharing, ephemeral encrypted links (`Psst!`), and auto-clearing clipboard protection. | $2.99 / month (Individual, billed annually at $35.88/yr) | 14-day free trial with full access to all features (no permanent free tier) | ~$500M ARR / $6.8B Valuation |
+| **[AirDroid](https://airdroid.com)** | Cross-platform mobile-to-desktop management suite supporting remote clipboard sync, wireless file transfers, screen mirroring, and SMS management. | $3.99 / month (or $29.99 / year billed annually) | Free forever plan with limits: 200 MB/month remote data quota, 30 MB remote file transfer limit, 2 connected devices max, single device remote control | Bootstrapped / $1.0B+ Claimed Valuation |
+| **[Raycast (Cloud Sync Clipboard History)](https://raycast.com)** | Keyboard-driven launcher for macOS and Windows featuring rich searchable clipboard history with end-to-end encrypted cloud synchronization across devices. | $8.00 / month (Pro, billed annually at $96/yr) or $10.00 / month billed monthly | Free forever plan with limits: 3-month clipboard history, 5 Raycast notes, community extensions included; Cloud Sync and AI credits excluded | ~$120M Valuation ($48M raised) |
+| **[Pushbullet](https://pushbullet.com)** | Cloud device-bridging service for pushing links, text snippets, files, and notifications between desktop browsers, Windows, and Android devices. | $4.99 / month (or $39.99 / year billed annually) | Free forever plan with limits: 25 MB max file transfer, 2 GB total storage, 100 SMS/messages per month, 500 API pushes per month; Universal copy-paste restricted to Pro | ~$600K ARR ($1.62M seed raised) |
+| **[ClipboardFusion (Binary Fortress)](https://clipboardfusion.com)** | Windows and cross-platform clipboard manager featuring cloud-synced clipboard history, C# macro text scrubbing, and hotkeys. | $19.00 one-time (Pro Standard lifetime license for 1 PC) | 30-day free trial of Pro features; Free forever plan reverts to local clipboard manager only (online cloud sync and item pinning disabled) | ~$217.5K ARR / Bootstrapped (Binary Fortress Software) |
+| **[Paste (Paste App)](https://pasteapp.io)** | Polished visual clipboard manager and iCloud-synced history organizer for macOS, iPadOS, and iOS featuring searchable pinboards and instant link previews. | $3.99 / month (or $29.99 / year billed annually, or $99.99 lifetime) | 7-day free trial with full access to all features across Mac, iPhone, and iPad (no permanent free tier) | Bootstrapped / Independent (Paste Team ApS) |
+| **[ClipDo](https://clipdo.app)** | Cloud-enabled clipboard productivity and cross-device snippet syncing utility built for rapid text reuse and multi-device access. | $0.99 / month (via Microsoft Store subscription) | Free forever plan with limits: Basic local clipboard monitoring and history only (cloud sync, extended item storage, and advanced filtering locked) | Micro-SaaS / Indie Bootstrapped |
 
 
 
