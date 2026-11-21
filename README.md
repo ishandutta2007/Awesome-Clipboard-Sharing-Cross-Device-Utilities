@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Clipboard-Sharing-Cross-Device-Utilities/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Clipboard-Sharing-Cross-Device-Utilities?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Clipboard-Sharing-Cross-Device-Utilities/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Clipboard-Sharing-Cross-Device-Utilities?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Clipboard-Sharing-Cross-Device-Utilities/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Clipboard-Sharing-Cross-Device-Utilities?style=social" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Clipboard-Sharing-Cross-Device-Utilities/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-CC0_1.0-blue.svg?style=flat-square" alt="License" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -57,63 +57,63 @@ The market is **moderately fragmented**: while dominant Big Tech platform incumb
 
 ## 🔓 Open-Source GitHub Projects
 
-*Ranked in descending order by GitHub Stars ⭐. Each star badge links directly to the repository's stargazers.*
+*Ranked in descending order by GitHub_Stars ⭐. Each Stars_Badge links directly to the repository's stargazers.*
 
-1. **[LocalSend](https://github.com/localsend/localsend)** [![GitHub stars](https://img.shields.io/github/stars/localsend/localsend?style=social&color=white)](https://github.com/localsend/localsend/stargazers)  
+1. **[LocalSend](https://github.com/localsend/localsend)** [![GitHub_Stars](https://img.shields.io/github/stars/localsend/localsend?style=social&color=white)](https://github.com/localsend/localsend/stargazers)  
    Cross-platform open-source AirDrop alternative built with Flutter for securely sharing clipboard text snippets and files over local Wi-Fi without internet or external servers. *(macOS, Windows, Linux, Android, iOS)*
 
-2. **[Syncthing](https://github.com/syncthing/syncthing)** [![GitHub stars](https://img.shields.io/github/stars/syncthing/syncthing?style=social&color=white)](https://github.com/syncthing/syncthing/stargazers)  
+2. **[Syncthing](https://github.com/syncthing/syncthing)** [![GitHub_Stars](https://img.shields.io/github/stars/syncthing/syncthing?style=social&color=white)](https://github.com/syncthing/syncthing/stargazers)  
    Decentralized, continuous peer-to-peer file, folder, and clipboard-drop synchronization engine equipped with comprehensive TLS mutual authentication. *(All OS)*
 
-3. **[Maccy](https://github.com/p0deje/Maccy)** [![GitHub stars](https://img.shields.io/github/stars/p0deje/Maccy?style=social&color=white)](https://github.com/p0deje/Maccy/stargazers)  
+3. **[Maccy](https://github.com/p0deje/Maccy)** [![GitHub_Stars](https://img.shields.io/github/stars/p0deje/Maccy?style=social&color=white)](https://github.com/p0deje/Maccy/stargazers)  
    Lightweight, native macOS clipboard manager engineered in Swift for speed, keyboard-first fuzzy filtering, and zero network bloat. *(macOS)*
 
-4. **[Bitwarden Clients](https://github.com/bitwarden/clients)** [![GitHub stars](https://img.shields.io/github/stars/bitwarden/clients?style=social&color=white)](https://github.com/bitwarden/clients/stargazers)  
+4. **[Bitwarden Clients](https://github.com/bitwarden/clients)** [![GitHub_Stars](https://img.shields.io/github/stars/bitwarden/clients?style=social&color=white)](https://github.com/bitwarden/clients/stargazers)  
    Open-source client desktop and mobile applications featuring `Bitwarden Send` for end-to-end encrypted ephemeral text, password, and file transmission across any platform. *(All OS & Browsers)*
 
-5. **[CopyQ](https://github.com/hluk/CopyQ)** [![GitHub stars](https://img.shields.io/github/stars/hluk/CopyQ?style=social&color=white)](https://github.com/hluk/CopyQ/stargazers)  
+5. **[CopyQ](https://github.com/hluk/CopyQ)** [![GitHub_Stars](https://img.shields.io/github/stars/hluk/CopyQ?style=social&color=white)](https://github.com/hluk/CopyQ/stargazers)  
    Advanced multiplatform clipboard manager with searchable and editable history, tabs, regex automation, custom scripting commands, and encrypted storage. *(macOS, Windows, Linux)*
 
-6. **[PrivateBin](https://github.com/PrivateBin/PrivateBin)** [![GitHub stars](https://img.shields.io/github/stars/PrivateBin/PrivateBin?style=social&color=white)](https://github.com/PrivateBin/PrivateBin/stargazers)  
+6. **[PrivateBin](https://github.com/PrivateBin/PrivateBin)** [![GitHub_Stars](https://img.shields.io/github/stars/PrivateBin/PrivateBin?style=social&color=white)](https://github.com/PrivateBin/PrivateBin/stargazers)  
    Minimalist, open-source online pastebin where the server has zero knowledge of pasted clipboard data (256-bit AES encryption/decryption occurs in browser). *(Self-hosted / Web)*
 
-7. **[Input Leap](https://github.com/input-leap/input-leap)** [![GitHub stars](https://img.shields.io/github/stars/input-leap/input-leap?style=social&color=white)](https://github.com/input-leap/input-leap/stargazers)  
+7. **[Input Leap](https://github.com/input-leap/input-leap)** [![GitHub_Stars](https://img.shields.io/github/stars/input-leap/input-leap?style=social&color=white)](https://github.com/input-leap/input-leap/stargazers)  
    Open-source software KVM switch enabling seamless mouse pointer transitions and synchronized system clipboard sharing between multiple physical computers on a LAN. *(macOS, Windows, Linux)*
 
-8. **[Ditto](https://github.com/sabrogden/Ditto)** [![GitHub stars](https://img.shields.io/github/stars/sabrogden/Ditto?style=social&color=white)](https://github.com/sabrogden/Ditto/stargazers)  
+8. **[Ditto](https://github.com/sabrogden/Ditto)** [![GitHub_Stars](https://img.shields.io/github/stars/sabrogden/Ditto?style=social&color=white)](https://github.com/sabrogden/Ditto/stargazers)  
    Standard-setting open-source Windows clipboard history extension supporting text, images, and HTML with peer-to-peer LAN clipboard sharing across multiple PCs. *(Windows)*
 
-9. **[Clipboard](https://github.com/Slackadays/Clipboard)** [![GitHub stars](https://img.shields.io/github/stars/Slackadays/Clipboard?style=social&color=white)](https://github.com/Slackadays/Clipboard/stargazers)  
+9. **[Clipboard](https://github.com/Slackadays/Clipboard)** [![GitHub_Stars](https://img.shields.io/github/stars/Slackadays/Clipboard?style=social&color=white)](https://github.com/Slackadays/Clipboard/stargazers)  
    Ultra-fast, zero-dependency C++ terminal clipboard manager and pipe utility capable of syncing text, binary files, and emojis locally and over network endpoints. *(Linux, macOS, Windows, BSD)*
 
-10. **[Lan-mouse](https://github.com/feschber/lan-mouse)** [![GitHub stars](https://img.shields.io/github/stars/feschber/lan-mouse?style=social&color=white)](https://github.com/feschber/lan-mouse/stargazers)  
+10. **[Lan-mouse](https://github.com/feschber/lan-mouse)** [![GitHub_Stars](https://img.shields.io/github/stars/feschber/lan-mouse?style=social&color=white)](https://github.com/feschber/lan-mouse/stargazers)  
     Modern cross-platform mouse and keyboard sharing tool written in Rust with full Wayland and X11 support, featuring automatic peer discovery and shared clipboard buffers. *(Linux, Windows, macOS)*
 
-11. **[SyncClipboard](https://github.com/Jeric-X/SyncClipboard)** [![GitHub stars](https://img.shields.io/github/stars/Jeric-X/SyncClipboard?style=social&color=white)](https://github.com/Jeric-X/SyncClipboard/stargazers)  
+11. **[SyncClipboard](https://github.com/Jeric-X/SyncClipboard)** [![GitHub_Stars](https://img.shields.io/github/stars/Jeric-X/SyncClipboard?style=social&color=white)](https://github.com/Jeric-X/SyncClipboard/stargazers)  
     Cross-platform clipboard synchronization client supporting text, images, and files via self-hosted WebDAV or custom built-in server infrastructure. *(Windows, macOS, Linux, Android)*
 
-12. **[MicroBin](https://github.com/szabodanika/microbin)** [![GitHub stars](https://img.shields.io/github/stars/szabodanika/microbin?style=social&color=white)](https://github.com/szabodanika/microbin/stargazers)  
+12. **[MicroBin](https://github.com/szabodanika/microbin)** [![GitHub_Stars](https://img.shields.io/github/stars/szabodanika/microbin?style=social&color=white)](https://github.com/szabodanika/microbin/stargazers)  
     Fast, lightweight, self-hosted pastebin and snippet sharing service built in Rust featuring client-side encryption, file uploads, QR code sharing, and clean CLI piping. *(Self-hosted / Docker)*
 
-13. **[KDE Connect](https://github.com/KDE/kdeconnect-kde)** [![GitHub stars](https://img.shields.io/github/stars/KDE/kdeconnect-kde?style=social&color=white)](https://github.com/KDE/kdeconnect-kde/stargazers)  
+13. **[KDE Connect](https://github.com/KDE/kdeconnect-kde)** [![GitHub_Stars](https://img.shields.io/github/stars/KDE/kdeconnect-kde?style=social&color=white)](https://github.com/KDE/kdeconnect-kde/stargazers)  
     Flagship continuity suite connecting Linux, Windows, macOS, Android, and iOS devices over local Wi-Fi with TLS encryption for instant shared clipboard, file transfers, and notification bridging. *(Multiplatform)*
 
-14. **[massCode](https://github.com/antonreshetov/massCode)** [![GitHub stars](https://img.shields.io/github/stars/antonreshetov/massCode?style=social&color=white)](https://github.com/antonreshetov/massCode/stargazers)  
+14. **[massCode](https://github.com/antonreshetov/massCode)** [![GitHub_Stars](https://img.shields.io/github/stars/antonreshetov/massCode?style=social&color=white)](https://github.com/antonreshetov/massCode/stargazers)  
     Free and open-source code snippet manager for developers with multi-language syntax highlighting, tags, Markdown support, and cloud-folder syncing. *(macOS, Windows, Linux)*
 
-15. **[ClipCascade](https://github.com/Sathvik-Rao/ClipCascade)** [![GitHub stars](https://img.shields.io/github/stars/Sathvik-Rao/ClipCascade?style=social&color=white)](https://github.com/Sathvik-Rao/ClipCascade/stargazers)  
+15. **[ClipCascade](https://github.com/Sathvik-Rao/ClipCascade)** [![GitHub_Stars](https://img.shields.io/github/stars/Sathvik-Rao/ClipCascade?style=social&color=white)](https://github.com/Sathvik-Rao/ClipCascade/stargazers)  
     Lightweight, self-hostable real-time clipboard sharing application utilizing WebSockets and end-to-end encryption for instant sync across devices. *(Windows, macOS, Linux, Android)*
 
-16. **[Cliphist](https://github.com/sentriz/cliphist)** [![GitHub stars](https://img.shields.io/github/stars/sentriz/cliphist?style=social&color=white)](https://github.com/sentriz/cliphist/stargazers)  
+16. **[Cliphist](https://github.com/sentriz/cliphist)** [![GitHub_Stars](https://img.shields.io/github/stars/sentriz/cliphist?style=social&color=white)](https://github.com/sentriz/cliphist/stargazers)  
     Blazing fast, Wayland-native clipboard manager for Linux written in Go that pipes clipboard history directly into `rofi`, `wofi`, or `fzf`. *(Linux / Wayland)*
 
-17. **[Clipse](https://github.com/savedra1/clipse)** [![GitHub stars](https://img.shields.io/github/stars/savedra1/clipse?style=social&color=white)](https://github.com/savedra1/clipse/stargazers)  
+17. **[Clipse](https://github.com/savedra1/clipse)** [![GitHub_Stars](https://img.shields.io/github/stars/savedra1/clipse?style=social&color=white)](https://github.com/savedra1/clipse/stargazers)  
     Terminal-based TUI clipboard manager written in Go with zero dependencies, configurable keybindings, multi-entry selection, and custom shell piping. *(Linux, macOS)*
 
-18. **[GPaste](https://github.com/Keruspe/GPaste)** [![GitHub stars](https://img.shields.io/github/stars/Keruspe/GPaste?style=social&color=white)](https://github.com/Keruspe/GPaste/stargazers)  
+18. **[GPaste](https://github.com/Keruspe/GPaste)** [![GitHub_Stars](https://img.shields.io/github/stars/Keruspe/GPaste?style=social&color=white)](https://github.com/Keruspe/GPaste/stargazers)  
     GNOME and GTK-native clipboard management daemon supporting images, sensitive password masking, Applet integration, and DBus CLI commands. *(Linux / GNOME)*
 
-19. **[Pasteferry](https://github.com/baiyuze/pasteferry)** [![GitHub stars](https://img.shields.io/github/stars/baiyuze/pasteferry?style=social&color=white)](https://github.com/baiyuze/pasteferry/stargazers)  
+19. **[Pasteferry](https://github.com/baiyuze/pasteferry)** [![GitHub_Stars](https://img.shields.io/github/stars/baiyuze/pasteferry?style=social&color=white)](https://github.com/baiyuze/pasteferry/stargazers)  
     Lightweight open-source clipboard synchronization client tailored for seamless text and link transfers across desktop workstations and mobile platforms. *(Cross-platform)*
 
 ---
@@ -165,3 +165,12 @@ If this resource has helped streamline your workflow across devices:
 
 - This list is community-curated for informational purposes and does not represent a commercial endorsement.
 - Clipboard managers can capture sensitive information (such as credentials, session tokens, and cryptographic keys). Always configure password manager ignore rules and verify transport encryption (TLS/E2EE) before enabling cross-device sync.
+
+## ⭐ Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-Clipboard-Sharing-Cross-Device-Utilities&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Clipboard-Sharing-Cross-Device-Utilities_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Clipboard-Sharing-Cross-Device-Utilities_growth.svg">
+  </picture>
+</a>
